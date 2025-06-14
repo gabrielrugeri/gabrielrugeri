@@ -16,6 +16,12 @@ I love exposing myself to new challenges every day. For me, technologies are a m
 - **Languages:** Java, Swift (UI), Python, C
 - **UI/UX:** Figma, UI/UX Design
 
+<div>
+<a href="https://github.com/gabrielrugeri">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrugeri&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrugeri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 ---
 
 ## 💡 Interests
@@ -27,8 +33,11 @@ I love exposing myself to new challenges every day. For me, technologies are a m
 ---
 
 ## 🌎 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/gabriel.rugeri)
+## Contatos:
+<div>
+<a href="https://instagram.com/gabriel.rugeri/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel.rugeri" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>  
 
 ---
 
